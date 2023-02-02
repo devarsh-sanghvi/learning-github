@@ -5,3 +5,4 @@ git reset : It will update the changes added by fetch but won't merge it (here)
 git reset --hard : It will merge the changes downloaded from origin or upstream
 git pull upstream : Fetches and merges repo to updated version of upstream repo in one command
 adding new line
+newline by unsync-branch
