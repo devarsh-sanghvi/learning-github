@@ -1,1 +1,6 @@
 This file is being created to check out how fetch works and differs from pull command.
+
+git fetch :It is used to fetch data from origin or upstream
+git reset : It will update the changes added by fetch but won't merge it (here)
+git reset --hard : It will merge the changes downloaded from origin or upstream
+git pull upstream : Fetches and merges repo to updated version of upstream repo in one command
